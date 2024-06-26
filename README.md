@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emdad12
+- 👋 Hi, I’m @Md Emdadul haque
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Data analysis
 - 💞️ I’m looking to collaborate on data analysis
