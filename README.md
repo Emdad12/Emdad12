@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on data analysis
 - 📫 How to reach me
 - Email:mdemdadulhaqe320@gmail.com
-- linkdin:
+- linkdin:www.linkedin.com/in/
+md-emdadul-haque-90ab522b1
 - facebook:https://www.facebook.com/emdad.mail
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
