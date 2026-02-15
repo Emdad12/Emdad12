@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Md Emdadul Haque 👋
+# Hi, I'm Emdad  👋
 
 ### 📊 Data Specialist | 📈 Business Intelligence Analyst | 🤖 Data Science & Deep Learning Enthusiast  
 
